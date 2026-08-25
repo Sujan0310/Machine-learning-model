@@ -1,5 +1,5 @@
 # Machine-learning-model
-Based on the evaluation of the Breast Cancer Wisconsin dataset, here is the final performance breakdown:
+Based on the evaluation of the Breast Cancer dataset, here is the final performance breakdown:
 
 1. Decision Tree Classifier
 Accuracy: 91.81%
